@@ -34,8 +34,7 @@ The robot operates entirely without microcontrollers and is based on analog circ
 
 ### Final Robot
 
-!(Fully Analog Line Follower/Images/Final_Robot.jpg)
-
+![Final Robot](images/Final_Robot.jpg)
 
 ---
 
