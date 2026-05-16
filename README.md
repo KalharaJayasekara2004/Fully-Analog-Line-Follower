@@ -36,15 +36,12 @@ The robot operates entirely without microcontrollers and is based on analog circ
 
 ![Final Robot](Images/Final_Robot.jpg)
 
-### PCB Layout
-
-![PCB Layout](images/pcb_layout.jpg)
 
 ---
 
 ## 🎥 Demonstration Video
 
-[Click here to watch the final demonstration](PASTE_VIDEO_LINK_HERE)
+[Click here to watch the final demonstration](https://drive.google.com/file/d/1bMnqlzevseig7BFVXOJsCPHhtffpjha0/view?usp=sharing)
 
 ---
 
