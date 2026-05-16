@@ -33,8 +33,7 @@ The robot operates entirely without microcontrollers and is based on analog circ
 ## 🖼️ Project Images
 
 ### Final Robot
-
-![Final Robot](images/Final_Robot.jpg)
+<img width="2043" height="1584" alt="Final Robot" src="https://github.com/user-attachments/assets/7e03c421-bd3d-435b-88eb-8c88833ab4da" />
 
 ---
 
