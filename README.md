@@ -51,8 +51,3 @@ The complete project report is available in the `report` folder.
 
 ---
 
-## 👥 Team Members
-
-- Your Name
-- Member 2
-- Member 3
